@@ -1,6 +1,6 @@
 {
-    "name": "plutus_creator_dashboard",
-    "short_name": "plutus_creator_dashboard",
+    "name": "govt_billing",
+    "short_name": "govt_billing",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
